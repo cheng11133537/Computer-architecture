@@ -54,5 +54,5 @@ Computer-Architecture/
 ├── Lab2/           # Pipelined RISC-V Processor
 ├── Lab3/           # Superscalar RISC-V Processor
 ├── Lab4/           # Out-of-Order RISC-V Processor (ROB)
-├── Lab5/           # Cache Implementation
+└── Lab5/           # Cache Implementation
 
